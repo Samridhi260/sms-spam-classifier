@@ -9,7 +9,3 @@ This is a simple machine learning-based SMS spam classifier using Naive Bayes an
 
 ## Dataset
 The dataset is downloaded from Google Drive using `gdown`.
-
-## How to Run
-
-1. Clone this repo:
